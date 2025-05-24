@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #4B4D7C;
-  color: #FFFFFF;
+  color: #12995F;
 }
 
 header {
@@ -28,7 +28,7 @@ main {
 }
 
 h1 {
-  color: #02131B;
+  color: #12995F;
   border-left: 5px dotted #3498db;
   padding-left: 10px;
 }
