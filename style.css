@@ -2,8 +2,8 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #BF5930;
-  color: #12995F;
+  background-color: #5E6370;
+  color: #DFCDAA;
 }
 
 header {
@@ -28,7 +28,7 @@ main {
 }
 
 h1 {
-  color: #12995F;
+  color: #DFCDAA;
   border-left: 5px dotted #3498db;
   padding-left: 10px;
 }
