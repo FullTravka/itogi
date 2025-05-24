@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #4B4D7C;
-  color: black;
+  color: #02131B;
 }
 
 header {
@@ -28,7 +28,7 @@ main {
 }
 
 h1 {
-  color: #2c3e50;
+  color: #02131B;
   border-left: 5px dotted #3498db;
   padding-left: 10px;
 }
@@ -45,7 +45,7 @@ ul {
   padding: 15px;
   margin: 20px 0;
   font-style: italic;
-  color: black;
+  color: #02131B;
 }
 
 /* Кнопка */
